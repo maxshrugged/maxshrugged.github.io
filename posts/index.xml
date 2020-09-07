@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Max shrugged</title>
+    <link>https://maxshrugged.com/posts/</link>
+    <description>Recent content in Posts on Max shrugged</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Sep 2020 19:25:55 -0700</lastBuildDate>
+    
+	<atom:link href="https://maxshrugged.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who is John Galt?</title>
+      <link>https://maxshrugged.com/posts/hello-world/</link>
+      <pubDate>Sat, 05 Sep 2020 19:25:55 -0700</pubDate>
+      
+      <guid>https://maxshrugged.com/posts/hello-world/</guid>
+      <description>Hi! My name is Max and I have a career in tech. But finance and investing have always been my passion. I&amp;rsquo;ve been reading a lot on the topic learned a lot nearly enough to understand how to consistently earn money in the stock market.
+Take everything you read here as Max personal opinions. I might retain the positions in the securities discussed or be flat out wrong. None of this is a trading advice and should not be relied on for any decisions.</description>
+    </item>
+    
+  </channel>
+</rss>
